@@ -1,0 +1,26 @@
+﻿<Window x:Class="ConvertSVGtoVisio.SvgtoVsdx"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Convert SVG to Visio" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="Button_Run_Click" Content="Run" HorizontalAlignment="Left" Height="47" Margin="404,217,0,0" VerticalAlignment="Top" Width="153" Click="Button_Click" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.05"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <ProgressBar x:Name="progressBar1" HorizontalAlignment="Left" Height="21" Margin="289,326,0,0" VerticalAlignment="Top" Width="209"/>
+        <Button x:Name="OpenFile" Content="Open File" HorizontalAlignment="Left" Margin="224,217,0,0" VerticalAlignment="Top" Click="OpenFile_Click" Height="50" Width="142"/>
+        <Label x:Name="runprocess" Content="(0/0)" HorizontalAlignment="Left" Margin="537,324,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="307,164,0,0" TextWrapping="Wrap" Text="Selected File Location" VerticalAlignment="Top" Width="209" Height="19" IsEnabled="False"/>
+        <Label Content="Convert SVG to Visio" HorizontalAlignment="Left" Margin="307,75,0,0" VerticalAlignment="Top" FontSize="22" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
