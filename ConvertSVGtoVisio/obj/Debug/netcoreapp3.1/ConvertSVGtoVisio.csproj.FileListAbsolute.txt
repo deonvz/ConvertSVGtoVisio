@@ -17,3 +17,22 @@ C:\Users\deva\source\repos\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcore
 C:\Users\deva\source\repos\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.genruntimeconfig.cache
 C:\Users\deva\source\repos\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\SvgtoVsdx.g.cs
 C:\Users\deva\source\repos\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\SvgtoVsdx.baml
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.exe
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.deps.json
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.runtimeconfig.json
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.runtimeconfig.dev.json
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.dll
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\bin\Debug\netcoreapp3.1\ConvertSVGtoVisio.pdb
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.csproj.AssemblyReference.cache
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\SvgtoVsdx.baml
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\SvgtoVsdx.g.cs
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio_MarkupCompile.cache
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.g.resources
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.AssemblyInfoInputs.cache
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.AssemblyInfo.cs
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.csproj.CoreCompileInputs.cache
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.dll
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.pdb
+C:\Users\deva\OneDrive - Nordic Semiconductor\Documents\Code\ConvertSVGtoVisio\ConvertSVGtoVisio\obj\Debug\netcoreapp3.1\ConvertSVGtoVisio.genruntimeconfig.cache
